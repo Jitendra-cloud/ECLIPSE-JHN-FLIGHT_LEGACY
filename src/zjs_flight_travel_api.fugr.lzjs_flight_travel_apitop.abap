@@ -1,0 +1,3 @@
+FUNCTION-POOL ZJS_FLIGHT_TRAVEL_API.        "MESSAGE-ID ..
+
+* INCLUDE LZJS_FLIGHT_TRAVEL_APID...         " Local class definition
